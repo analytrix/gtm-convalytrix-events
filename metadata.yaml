@@ -1,0 +1,5 @@
+homepage: "https://convalytrix.it"
+documentation: "https://convalytrix.it/docs"
+versions:
+  - sha: a34aac97f548a663c71433aedb8869e22f0097e6
+    changeNotes: Initial release
